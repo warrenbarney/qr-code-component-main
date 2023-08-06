@@ -19,7 +19,7 @@ main {
     justify-content: center;
     align-items: center;
     border-radius: 18px;
-    ;
+
     background-color: #ffffff;
     width: 320px;
 
@@ -42,7 +42,7 @@ main h3 {
     font-weight: 700;
     color: #223350;
     margin-bottom: 0;
-
+    margin-top: 10%
 }
 
 main p {
